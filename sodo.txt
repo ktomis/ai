@@ -1,0 +1,25 @@
+AirfarePrediction_AI/
+├── data/
+│   ├── raw/                     # Chứa dữ liệu thô
+│   ├── processed/               # Chứa dữ liệu đã xử lý
+├── notebooks/                   # Chứa các notebook phân tích và thử nghiệm
+├── src/                         # Chứa mã nguồn chính
+│   ├── data_preprocessing.py      # Xử lý dữ liệu 
+│   ├── feature_engineering.py     # Kỹ thuật đặc trưng 
+│   ├── model_training.py          # Huấn luyện mô hình 
+│   ├── model_evaluation.py        # Đánh giá mô hình 
+│   ├── utils.py                   # Các hàm tiện ích
+├── models/                      # Lưu các mô hình đã huấn luyện
+├── tests/                       # Chứa các tệp kiểm thử
+├── docs/                        # Tài liệu dự án
+
+
+Các thư viện
+pip install pandas
+pip install openpyxl
+pip install matplotlib
+pip install termcolor
+pip install seaborn
+pip install pandas numpy seaborn matplotlib termcolor
+pip install streamlit
+
