@@ -1,1 +1,1 @@
-Thư Viện: pip install -r requirements.txt
+Thư Viện:   pip install -r requirements.txt
